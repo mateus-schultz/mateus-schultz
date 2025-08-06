@@ -64,6 +64,7 @@ I'm a Frontend Developer specialized in React and a passion for building innovat
 ## 🌐 Follow me
 
 - 💼 [LinkedIn - Mateus Schultz](https://www.linkedin.com/in/mateus-schultz-980380149/)
+- [Instagram](https://www.instagram.com/mateus_schultz_/)
 
 ---
 
