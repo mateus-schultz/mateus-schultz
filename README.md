@@ -21,7 +21,7 @@ I'm a Frontend Developer specialized in React and a passion for building innovat
 
 ## 📝 About me
 
-- 💻 Senior Frontend Engineer with 6+ years of experience
+- 💻 Senior Frontend Engineer with 8+ years of experience
 - ⚛️ Specialized in React, TypeScript, and modern UI frameworks
 - 🚀 Expert in building MVPs and prototypes in agile environments
 - 🧠 Quick to adapt to new tools, libraries, and tech stacks
@@ -64,7 +64,7 @@ I'm a Frontend Developer specialized in React and a passion for building innovat
 ## 🌐 Follow me
 
 - 💼 [LinkedIn - Mateus Schultz](https://www.linkedin.com/in/mateus-schultz-980380149/)
-- [Instagram](https://www.instagram.com/mateus_schultz_/)
+- [Full CV](https://mateus-schultz.github.io/)
 
 ---
 
